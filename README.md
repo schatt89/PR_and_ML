@@ -1,4 +1,4 @@
-# Pattern Recognition and Machine Learning
+# Intro to PR and ML SNG-13006 TUNI Course
 Homework solutions for Introduction to Pattern Recognition and Machine Learning course at Tampere University
 
 ## K-nearest neighbours
